@@ -2,17 +2,21 @@
 
 ## 📖 Project Overview
 
-A console-based Library Management System developed in Java that demonstrates Object-Oriented Programming (OOP) concepts. The application enables users to manage books, members, and book transactions efficiently.
+A console-based Library Management System developed in Java using Object-Oriented Programming (OOP). The application allows users to manage books, members, and book transactions through a menu-driven interface.
 
 ---
 
-## 🎯 Objectives
+## ✨ Features
 
-- Manage library books.
-- Register and manage members.
-- Issue and return books.
-- Search books.
-- Track library transactions.
+- Add Book
+- View Books
+- Search Book
+- Remove Book
+- Register Member
+- View Members
+- Issue Book
+- Return Book
+- View Transaction History
 
 ---
 
@@ -20,26 +24,12 @@ A console-based Library Management System developed in Java that demonstrates Ob
 
 - Java
 - Object-Oriented Programming (OOP)
-- Collections Framework
+- Collections Framework (ArrayList)
 - Scanner Class
 
 ---
 
-## ✨ Features
-
-- Add New Book
-- Search Book
-- View All Books
-- Remove Book
-- Register Member
-- View Members
-- Issue Book
-- Return Book
-- Transaction History
-
----
-
-## 📂 Project Files
+## 📂 Files
 
 - Main.java
 - Library.java
@@ -52,19 +42,11 @@ A console-based Library Management System developed in Java that demonstrates Ob
 ## 🚀 Skills Demonstrated
 
 - Java Programming
-- Object-Oriented Programming
+- OOP Concepts
+- Classes & Objects
+- Encapsulation
 - Collections Framework
-- Problem Solving
 - Console Application Development
-
----
-
-## 🔮 Future Improvements
-
-- GUI using JavaFX or Swing
-- Database Integration (MySQL)
-- User Authentication
-- Fine Calculation for Late Returns
 
 ---
 
